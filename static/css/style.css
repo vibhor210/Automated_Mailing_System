@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    position: absolute;
+    top: 14vh;
+    width: 100vw;
+    text-align: center;
+}
+section{
+    position: absolute;
+    top: 30vh;
+    left: 25vw;
+    width: 50vw;
+    text-align: center;
+}
